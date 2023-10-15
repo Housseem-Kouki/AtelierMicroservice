@@ -9,7 +9,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping(value = "/api/candidats")
+@RequestMapping(value = "/api")
 public class CandidatRestAPI {
     private String hello="Hello From MS1";
     @RequestMapping("/hello")

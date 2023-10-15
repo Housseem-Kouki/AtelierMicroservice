@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CandidatMS/CandidatMS.iml" filepath="$PROJECT_DIR$/CandidatMS/CandidatMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/JobMS/JobMS.iml" filepath="$PROJECT_DIR$/JobMS/JobMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
     </modules>
   </component>
 </project>

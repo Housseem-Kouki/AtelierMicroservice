@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/CandidatMS/pom.xml" />
         <option value="$PROJECT_DIR$/JobMS/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
       </list>
     </option>
   </component>
